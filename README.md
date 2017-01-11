@@ -1,2 +1,2 @@
 # anonytube
-Chrome Extension for Stealth Youtubing
+Chrome Extension for Light youtube
