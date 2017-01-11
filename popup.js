@@ -1,6 +1,4 @@
 (function startYoutubeAnonymous() {
-    console.log("Using Youtube Anonymously");
-
     var shouldHideVideo   = true,
         shouldHideSidebar = true,
         shouldHideTitle   = true,
