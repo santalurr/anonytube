@@ -1,4 +1,4 @@
-(function startYoutubeAnonymous() {
+(function startLightube() {
     var shouldHideVideo   = true,
         shouldHideSidebar = true,
         shouldHideTitle   = true,
